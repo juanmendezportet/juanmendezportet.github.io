@@ -1,4 +1,4 @@
 title: Juan Mendez
 #logo: 
 show_downloads: true
-theme: jekyll-theme-minima
+remote_theme: pages-themes/minimal@v0.2.0
