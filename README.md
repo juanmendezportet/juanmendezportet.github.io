@@ -1,10 +1,10 @@
 # Data Analyst | Business Analyst
 
-#### Experienced engineer proficient in predictive and classification modeling, data visualization, and analysis. Armed with data mining expertise and eager to drive team success through diligent work and a resilient mindset.
+Experienced engineer proficient in predictive and classification modeling, data visualization, and analysis. Armed with data mining expertise and eager to drive team success through diligent work and a resilient mindset.
 
 #### Technical Skills: Python, R, SQL, Tableau
 
-#### Languages: English (_native_), Spanish (_native_)
+#### Languages: English (_*native*_), Spanish (_*native*_)
 
 ## Education
 - M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_)								       		
