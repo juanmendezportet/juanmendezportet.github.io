@@ -4,7 +4,7 @@ Experienced engineer proficient in predictive and classification modeling, data 
 
 #### Technical Skills: Python, R, SQL, Tableau
 
-#### Languages: English (_*native*_), Spanish (_*native*_)
+#### Languages: English (_native_), Spanish (_native_)
 
 ## Education
 - M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_)								       		
@@ -27,7 +27,7 @@ Developed a predictive classification model using **Random Forest** and **Gradie
 
 [Portfolio](/portfolio/reg_modeling/name)
 
-Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
+Utilized **data imputation** and **feature engineering** techniques, along with a **Decision Tree Regressor**, to accurately forecast click rates for an Air France marketing campaign. 
 
 ## Work Experience
 **Project Manager @ EDESSA (_June 2023 - Sept 2023_)**
@@ -47,3 +47,8 @@ Managed the successful completion of the Energy Transition Project in the countr
 Responsible for maintaining optimal inventory levels to meet monthly and semi-annual demands.
 - Coordinated a monthly inflow of inventory valued at 6 million USD from major suppliers, including Colgate and Abbott.
 - Enhanced loading speed significantly by developing and implementing an effective inventory management plan.
+
+## Portfolio
+**Python**
+- [Adventure_Game](/portfolio/python/Adventure_Time)
+
