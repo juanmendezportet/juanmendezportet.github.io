@@ -5,7 +5,7 @@
 #### Languages: English (_native_), Spanish (_native_)
 
 ## Education
-- M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (Exp)_)								       		
+- M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_)								       		
 - B.S., Energy Engineering, Pennsylvania State University (_Dec 2020_)	 			        		
   
 ## Experience in Data Analysis
