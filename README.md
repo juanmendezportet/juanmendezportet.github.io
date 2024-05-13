@@ -13,13 +13,13 @@ Experienced engineer proficient in predictive and classification modeling, data 
 ## Experience in Data Analysis
 **Object Detection and Image Recognition:**
 
-[Object Detection](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
+[Building Damage Detection in San Juan Puerto, Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
 Collaborated with NASA and EY to develop an object detection model using **YOLO v8**, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria.  
 
 **Classification Modeling:**
 
-[Portfolio](/portfolio/class_modeling/name)
+[Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 
 Developed a predictive classification model using **Random Forest** and **Gradient Boosting** algorithms to identify potential low birthweight instances from parental data.
 
