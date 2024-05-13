@@ -2,9 +2,10 @@ title: Juan Mendez
 logo: /assets/img/Scrinshot circle.jpg
 description: Experienced engineer proficient in predictive and classification modeling, data visualization, and analysis. Armed with data mining expertise and eager to drive team success through diligent work and a resilient mindset.
   <br><br>
-  Socials
+  Socials/:
   <br>
   <a href="https://www.linkedin.com/in/juanportet/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"> </a> 
+  <br>
 show_downloads: false
 theme: jekyll-theme-minimal
 
