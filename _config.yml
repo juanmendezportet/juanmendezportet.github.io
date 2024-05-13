@@ -1,27 +1,5 @@
-# Site Author
-author:
-  name             : "Juan Mendez"
-  avatar           : "/assets/img/Scrinshot circle.jpg" 
-  bio              : "+41 78 234 22 62"
-  location         : "Switzerland - Europe"
-  email            : "sophiebriques@gmail.com"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "sbriques"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "sophiebriques"
-
 title: Juan Mendez
 logo: /assets/img/Scrinshot circle.jpg
 show_downloads: true
 theme: jekyll-theme-minimal
+linkedin: "sophiebriques"
