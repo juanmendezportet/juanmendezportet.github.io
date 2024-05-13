@@ -13,7 +13,7 @@ Experienced engineer proficient in predictive and classification modeling, data 
 ## Experience in Data Analysis
 **Object Detection and Image Recognition:**
 
-[Object Detection](/portfolio/python/building_damage_detection_in_san_juan _puerto_rico.ipynb)
+![Object Detection](/portfolio/python/building_damage_detection_in_san_juan _puerto_rico.ipynb)
 
 Collaborated with NASA and EY to develop an object detection model using **YOLO v8**, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria.  
 
