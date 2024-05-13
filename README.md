@@ -50,5 +50,7 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 
 ## Portfolio
 **Python**
-- [Adventure_Game](/portfolio/python/Adventure_Time)
+- [Adventure Time: Slumber Party](link)
+- [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
+- [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 
