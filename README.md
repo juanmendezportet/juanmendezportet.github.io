@@ -50,7 +50,9 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 
 ## Portfolio
 **Python**
-- [Adventure Time: Slumber Party](link)
+- [Adventure Time: Slumber Party](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Adventure%20Time%3A%20Slumber%20Party.ipynb)
+  
+This is my first python project, I created it during my first month at Hult. If you have the time please give the game a try, I spent a lot of time and effort on the story paths and I think it's quite entertaining and funny.
 - [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 - [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 
