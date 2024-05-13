@@ -1,5 +1,8 @@
 title: Juan Mendez
 logo: /assets/img/Scrinshot circle.jpg
 description: juanportet
+footer_links: 
+  linkedin_username: juan-mendez
+  instagram_username: juanmanumango
 show_downloads: true
 theme: jekyll-theme-minimal
