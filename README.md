@@ -23,7 +23,7 @@ Developed a predictive classification model using **Random Forest** and **Gradie
 
 **Regression Modeling:**
 
-[Number of Visits Regression](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
+[Using Regression to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 
 Utilized **data imputation** and **feature engineering** techniques, along with a **Decision Tree Regressor**, to accurately forecast click rates for an Air France marketing campaign. 
 
@@ -51,12 +51,13 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 - [Adventure Time: Slumber Party](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Adventure%20Time%3A%20Slumber%20Party.ipynb)
   
 This is my first python project, I created it during my first month at Hult. If you have the time please give the game a try, I spent a lot of time and effort on the story paths and I think it's quite entertaining and funny.
-- [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
-- [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
-- [Number of Visits Regression](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 - [Airbnb Descriptions Data Mining](Link)
   
 The purpose of this project was to extract business insight from descriptions in an Airbnb database. I sinny app was created to easily showcase the insights found in the data. 
+- [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
+- [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
+- [Using Regression to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
+
 
 **R**
 - [1](Link)
