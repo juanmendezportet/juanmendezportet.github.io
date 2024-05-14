@@ -63,7 +63,11 @@ The purpose of this project was to extract business insight from descriptions in
 
 **R**
 - [World Bank Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
+
+Using world bank data from the year 1960 to the year 2020, I created a scatter plot to showcase the differences in fertility rates and life expectancy across that period of time. 
 - [Bank Churn Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A2.R)
+
+
 - [Money Ball Project](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A3%20FINAL.R)
 
 **SQL**
