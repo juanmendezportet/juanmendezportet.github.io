@@ -55,18 +55,21 @@ This is my first python project, I created it during my first month at Hult. If 
   
 The purpose of this project was to extract business insight from descriptions in an Airbnb database. I sinny app was created to easily showcase the insights found in the data. 
 - [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
+
+
 - [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 - [Using Regression to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 
 
 **R**
-- [1](Link)
-- [2](Link)
-- [3](Link)
+- [World Bank Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
+- [Bank Churn Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A2.R)
+- [Money Ball Project](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A3%20FINAL.R)
 
 **SQL**
 - [1](Link)
 
 **Tableu**
-- [1](Link)
+- [Office Depot Business Dashboard](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.twbx)
+- [Population Analysis Presentation](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/Population%20Analysis%20Presentation.twbx)
 
