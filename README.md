@@ -47,7 +47,7 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 - Enhanced loading speed significantly by developing and implementing an effective inventory management plan.
 
 # Portfolio
-**Python**
+## Python
 - [Adventure Time: Slumber Party](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Adventure%20Time%3A%20Slumber%20Party.ipynb)
   
 This is my first python project, I created it during my first month at Hult. If you have the time please give the game a try, I spent a lot of time and effort on the story paths and I think it's quite entertaining and funny.
@@ -64,7 +64,7 @@ Developed a predictive classification model utilizing Random Forest and Gradient
 
 Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
 
-**R**
+## R
 - [World Bank Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
 
 Developed a scatter plot analysis using World Bank data from 1960 to 2020 to illustrate the evolving relationship between fertility rates and life expectancy, highlighting significant demographic and health trends globally. 
@@ -75,7 +75,7 @@ Developed a predictive model utilizing bank data to forecast client churn rates,
 
 Conducted a data-driven analysis of player statistics from the 2002 season, inspired by the 'Moneyball' methodology, to identify undervalued players based on on-base percentage and other key metrics. The approach enabled the formulation of cost-effective team-building strategies aimed at maintaining competitive performance without incurring high costs.
 
-**Tableau**
+## Tableau
 - [Office Depot Business Dashboard](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.twbx)
 
 Analyzed business supply and service data from multiple providers to create a comprehensive Tableau dashboard. This dashboard compares the performance of the leading provider, Office Depot, against smaller competitors, utilizing metrics such as sales figures, promotional impacts, and geographic distribution to drive strategic supplier assessments and decisions.
