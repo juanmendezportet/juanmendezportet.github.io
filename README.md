@@ -63,6 +63,7 @@ Developed a predictive classification model using Random Forest and Gradient Boo
 - [Using Regression to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 
 Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
+
 **R**
 - [World Bank Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
 
@@ -73,6 +74,7 @@ Developed a predictive model utilizing bank data to forecast client churn rates,
 - [Money Ball Project](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A3%20FINAL.R)
 
 Conducted a data-driven analysis of player statistics from the 2002 season, inspired by the 'Moneyball' methodology, to identify undervalued players based on on-base percentage and other key metrics. The approach enabled the formulation of cost-effective team-building strategies aimed at maintaining competitive performance without incurring high costs.
+
 **Tableu**
 - [Office Depot Business Dashboard](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.twbx)
 
