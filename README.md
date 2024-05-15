@@ -75,7 +75,7 @@ Developed a predictive model utilizing bank data to forecast client churn rates,
 
 Conducted a data-driven analysis of player statistics from the 2002 season, inspired by the 'Moneyball' methodology, to identify undervalued players based on on-base percentage and other key metrics. The approach enabled the formulation of cost-effective team-building strategies aimed at maintaining competitive performance without incurring high costs.
 
-**Tableu**
+**Tableau**
 - [Office Depot Business Dashboard](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.twbx)
 
 Analyzed business supply and service data from multiple providers to create a comprehensive Tableau dashboard. This dashboard compares the performance of the leading provider, Office Depot, against smaller competitors, utilizing metrics such as sales figures, promotional impacts, and geographic distribution to drive strategic supplier assessments and decisions.
