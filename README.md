@@ -1,6 +1,6 @@
 # Data Analyst | Business Analyst
 
-#### Technical Skills: Python, R, SQL, Tableau
+#### Technical Skills: Python, R, Tableau, SQL
 
 #### Languages: English (_native_), Spanish (_native_)
 
@@ -56,24 +56,29 @@ This is my first python project, I created it during my first month at Hult. If 
 The purpose of this project was to extract business insight from descriptions in an Airbnb database. I sinny app was created to easily showcase the insights found in the data. 
 - [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
-
+Collaborated with NASA and EY to develop an object detection model using YOLO v8, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria. 
 - [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
+
+Developed a predictive classification model using Random Forest and Gradient Boosting algorithms to identify potential low birthweight instances from parental data.
 - [Using Regression to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 
-
+Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
 **R**
 - [World Bank Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
 
-Using world bank data from the year 1960 to the year 2020, I created a scatter plot to showcase the differences in fertility rates and life expectancy across that period of time. 
+Developed a scatter plot analysis using World Bank data from 1960 to 2020 to illustrate the evolving relationship between fertility rates and life expectancy, highlighting significant demographic and health trends globally. 
 - [Bank Churn Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A2.R)
 
-
+Developed a predictive model utilizing bank data to forecast client churn rates, segmenting results by age groups to enable targeted retention strategies and improve customer relationship management.
 - [Money Ball Project](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A3%20FINAL.R)
 
-**SQL**
-- [1](Link)
-
+Conducted a data-driven analysis of player statistics from the 2002 season, inspired by the 'Moneyball' methodology, to identify undervalued players based on on-base percentage and other key metrics. The approach enabled the formulation of cost-effective team-building strategies aimed at maintaining competitive performance without incurring high costs.
 **Tableu**
 - [Office Depot Business Dashboard](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.twbx)
-- [Population Analysis Presentation](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/Population%20Analysis%20Presentation.twbx)
+
+Analyzed business supply and service data from multiple providers to create a comprehensive Tableau dashboard. This dashboard compares the performance of the leading provider, Office Depot, against smaller competitors, utilizing metrics such as sales figures, promotional impacts, and geographic distribution to drive strategic supplier assessments and decisions.
+- [Global Socioeconomic Disparities Story Board](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/Population%20Analysis%20Presentation.twbx)
+
+Developed a storyboard that illustrates socioeconomic disparities between developed and developing countries, focusing on key indicators such as GDP, life expectancy, and child mortality from 2000 to 2015. Utilized comprehensive data analysis to highlight trends and insights, effectively presenting the findings in a visually engaging format.
+
 
