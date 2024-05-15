@@ -13,17 +13,17 @@
 
 [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
-Collaborated with NASA and EY to develop an object detection model using **YOLO v8**, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria.  
+CParticipated in EY and NASA’s Open Science Data Challenge to develop an object detection model using **YOLO v8**, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria.  
 
 **Classification Modeling:**
 
 [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 
-Developed a predictive classification model using **Random Forest** and **Gradient Boosting** algorithms to identify potential low birthweight instances from parental data.
+Developed a predictive classification model utilizing **Random Forest** and **Gradient Boosting** algorithms to identify potential instances of low birthweight from parental data. This model aids in early intervention strategies, potentially reducing health risks associated with low birthweight.
 
 **Regression Modeling:**
 
-[Using Regression to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
+[Regression modeling to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 
 Utilized **data imputation** and **feature engineering** techniques, along with a **Decision Tree Regressor**, to accurately forecast click rates for an Air France marketing campaign. 
 
@@ -53,14 +53,14 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 This is my first python project, I created it during my first month at Hult. If you have the time please give the game a try, I spent a lot of time and effort on the story paths and I think it's quite entertaining and funny.
 - [Airbnb Descriptions Data Mining](Link)
   
-The purpose of this project was to extract business insight from descriptions in an Airbnb database. I sinny app was created to easily showcase the insights found in the data. 
+Designed and deployed a Shiny app to extract and visualize business insights from an extensive Airbnb database, enabling intuitive exploration of property descriptions and their impact on rental performance. 
 - [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
-Collaborated with NASA and EY to develop an object detection model using YOLO v8, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria. 
+Participated in EY and NASA’s Open Science Data Challenge to develop an object detection model using YOLO v8, aimed to conduct storm damage assessment in San Juan, Puerto Rico following Hurricane Maria. 
 - [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 
-Developed a predictive classification model using Random Forest and Gradient Boosting algorithms to identify potential low birthweight instances from parental data.
-- [Using Regression to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
+Developed a predictive classification model utilizing Random Forest and Gradient Boosting algorithms to identify potential instances of low birthweight from parental data. This model aids in early intervention strategies, potentially reducing health risks associated with low birthweight.
+- [Regression modeling to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 
 Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
 
