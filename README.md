@@ -46,7 +46,7 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 - Coordinated a monthly inflow of inventory valued at 6 million USD from major suppliers, including Colgate and Abbott.
 - Enhanced loading speed significantly by developing and implementing an effective inventory management plan.
 
-## Portfolio
+# Portfolio
 **Python**
 - [Adventure Time: Slumber Party](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Adventure%20Time%3A%20Slumber%20Party.ipynb)
   
