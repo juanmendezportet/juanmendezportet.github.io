@@ -76,10 +76,10 @@ Developed a predictive model utilizing bank data to forecast client churn rates,
 Conducted a data-driven analysis of player statistics from the 2002 season, inspired by the 'Moneyball' methodology, to identify undervalued players based on on-base percentage and other key metrics. The approach enabled the formulation of cost-effective team-building strategies aimed at maintaining competitive performance without incurring high costs.
 
 ## Tableau
-- [Office Depot Business Dashboard](https://github.com/juanmendezportet/juanmendezportet.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.pdf)  [Download Tableau file](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.twbx)
+- [Office Depot Business Dashboard](https://github.com/juanmendezportet/juanmendezportet.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.pdf) | [Download Tableau file](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/A1%20Take%20Home%20Assessment%20Juan%20Mendez.twbx)
 
 Analyzed business supply and service data from multiple providers to create a comprehensive Tableau dashboard. This dashboard compares the performance of the leading provider, Office Depot, against smaller competitors, utilizing metrics such as sales figures, promotional impacts, and geographic distribution to drive strategic supplier assessments and decisions.
-- [Global Socioeconomic Disparities Story Board](https://github.com/juanmendezportet/juanmendezportet.github.io/blob/main/portfolio/Tableau/Population%20Analysis%20Presentation.pdf)    [Download Tableau file](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/Population%20Analysis%20Presentation.twbx)
+- [Global Socioeconomic Disparities Story Board](https://github.com/juanmendezportet/juanmendezportet.github.io/blob/main/portfolio/Tableau/Population%20Analysis%20Presentation.pdf) | [Download Tableau file](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/Tableau/Population%20Analysis%20Presentation.twbx)
 
 Developed a storyboard that illustrates socioeconomic disparities between developed and developing countries, focusing on key indicators such as GDP, life expectancy, and child mortality from 2000 to 2015. Utilized comprehensive data analysis to highlight trends and insights, effectively presenting the findings in a visually engaging format.
 
