@@ -62,7 +62,7 @@ Developed a predictive classification model utilizing Random Forest and Gradient
 Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
 
 ## R
-- [Airbnb Descriptions Data Mining](Link)
+- [Airbnb Descriptions Data Mining](https://github.com/juanmendezportet/juanmendezportet.github.io/blob/main/portfolio/R/A1_Mendez_Juan.R)
   
 Designed and deployed a Shiny app to extract and visualize business insights from an extensive Airbnb database, enabling intuitive exploration of property descriptions and their relationship with country location. 
 - [World Bank Data Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
