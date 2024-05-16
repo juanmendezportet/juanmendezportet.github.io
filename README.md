@@ -13,11 +13,11 @@
 
 [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
-CParticipated in EY and NASA’s Open Science Data Challenge to develop an object detection model using **YOLO v8**, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria.  
+Participated in EY and NASA’s Open Science Data Challenge to develop an object detection model using **YOLO v8**, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria.  
 
 **Classification Modeling:**
 
-[Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
+[Low Birthweight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 
 Developed a predictive classification model utilizing **Random Forest** and **Gradient Boosting** algorithms to identify potential instances of low birthweight from parental data. This model aids in early intervention strategies, potentially reducing health risks associated with low birthweight.
 
@@ -30,7 +30,7 @@ Utilized **data imputation** and **feature engineering** techniques, along with 
 ## Work Experience
 **Project Manager @ EDESSA (_June 2023 - Sept 2023_)**
 
-Coordinated the seamless integration of the MARS product line into the existing distribution system.
+Coordinated the seamless integration of the MARS product line (Petcare, Snacking, and Food and Nutrition) into the existing distribution system.
 - Developed a comprehensive logistics plan to manage the monthly distribution of MARS products valued at 1 million USD.
 - Planned and oversaw the rapid construction of a climate-controlled warehouse, successfully completing the project in just 1.5 months.
 
@@ -51,13 +51,10 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 - [Adventure Time: Slumber Party](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Adventure%20Time%3A%20Slumber%20Party.ipynb)
   
 This is my first python project, I created it during my first month at Hult. If you have the time please give the game a try, I spent a lot of time and effort on the story paths and I think it's quite entertaining and funny.
-- [Airbnb Descriptions Data Mining](Link)
-  
-Designed and deployed a Shiny app to extract and visualize business insights from an extensive Airbnb database, enabling intuitive exploration of property descriptions and their impact on rental performance. 
 - [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
 Participated in EY and NASA’s Open Science Data Challenge to develop an object detection model using YOLO v8, aimed to conduct storm damage assessment in San Juan, Puerto Rico following Hurricane Maria. 
-- [Low Birth Weight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
+- [Low Birthweight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
 
 Developed a predictive classification model utilizing Random Forest and Gradient Boosting algorithms to identify potential instances of low birthweight from parental data. This model aids in early intervention strategies, potentially reducing health risks associated with low birthweight.
 - [Regression modeling to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
@@ -65,7 +62,10 @@ Developed a predictive classification model utilizing Random Forest and Gradient
 Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
 
 ## R
-- [World Bank Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
+- [Airbnb Descriptions Data Mining](Link)
+  
+Designed and deployed a Shiny app to extract and visualize business insights from an extensive Airbnb database, enabling intuitive exploration of property descriptions and their relationship with country location. 
+- [World Bank Data Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/Assignment%201%20(World%20Bank)%20COMPLETE.R)
 
 Developed a scatter plot analysis using World Bank data from 1960 to 2020 to illustrate the evolving relationship between fertility rates and life expectancy, highlighting significant demographic and health trends globally. 
 - [Bank Churn Analysis](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/R/A2.R)
