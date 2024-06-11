@@ -5,7 +5,7 @@
 #### Languages: English (_native_), Spanish (_native_)
 
 ## Education
-- M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_)
+- M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_) \n
   GPA 3.7/4 (Dean's List)              		
 - B.S., Energy Engineering, Pennsylvania State University (_Dec 2020_)	 			        		
   
