@@ -5,7 +5,8 @@
 #### Languages: English (_native_), Spanish (_native_)
 
 ## Education
-- M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_)								       		
+- M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_)
+  GPA 3.7/4 (Dean's List)              		
 - B.S., Energy Engineering, Pennsylvania State University (_Dec 2020_)	 			        		
   
 ## Experience in Data Analysis
@@ -38,7 +39,7 @@ Coordinated the seamless integration of the MARS product line (Petcare, Snacking
 
 Managed the successful completion of the Energy Transition Project in the country.
 - Served as the primary liaison between various government institutions for the GER-DR-CR cooperation, facilitating effective communication and collaboration.
-- Coordinated the production and editing of the final edition of the Transforma bulletin, a publication highlighting the project's achievements and contributions to the country regarding sustainability and renewables.
+- Conducted in-depth analysis of national emissions and energy production data to evaluate the country’s progress and identify opportunities for improvement.
 
 **Logistic Coordinator @ EDESSA (_Oct 2021 - Sept 2022_)**
 
