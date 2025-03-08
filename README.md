@@ -1,34 +1,32 @@
-# Data Analyst | Business Analyst
+# Investment Analyst
 
-#### Technical Skills: Python, R, Tableau, SQL
+#### Technical Skills: Python, R, Tableau, SQL, Index
 
-#### Languages: English (_native_), Spanish (_native_)
+#### Languages: English (_native_), Spanish (_native_), French (_intermediate_)
 
 ## Education
-- M.S., Business Analytics, Hult Int. Business School (_Aug 2024 (EXP)_) <br />
-  GPA 3.7/4 (Dean's List)              		
-- B.S., Energy Engineering, Pennsylvania State University (_Dec 2020_)	 			        		
-  
-## Experience in Data Analysis
-**Object Detection and Image Recognition:**
-
-[Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
-
-Participated in EY and NASA’s Open Science Data Challenge to develop an object detection model using **YOLO v8**, aimed at identifying damaged residential and commercial buildings in San Juan, Puerto Rico following Hurricane Maria.  
-
-**Classification Modeling:**
-
-[Low Birthweight Classification](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/low_birthweight_classification.ipynb)
-
-Developed a predictive classification model utilizing **Random Forest** and **Gradient Boosting** algorithms to identify potential instances of low birthweight from parental data. This model aids in early intervention strategies, potentially reducing health risks associated with low birthweight.
-
-**Regression Modeling:**
-
-[Regression modeling to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
-
-Utilized **data imputation** and **feature engineering** techniques, along with a **Decision Tree Regressor**, to accurately forecast click rates for an Air France marketing campaign. 
+- M.S., Business Analytics, Hult Int. Business School (_Aug 2024_) <br />
+  GPA 3.59/4 (Dean's List)              		
+- B.S., Energy Engineering, Pennsylvania State University (_Dec 2020_)
+  GPA 3.38/4
 
 ## Work Experience
+**Associate @ Natureza Growth Partners (_Sept 2024 - Present_)**
+
+Conducted in-depth financial and market analyses and streamlining processes through automation to enhance efficiency and support successful Series A / Series B investments.
+- Developed and presented investment and management material, integrating financial data, market trends, and company insights, directly supporting key decisions. Contributing to successful Series A - B investments totaling over $10M.
+- Prepared detailed investment memorandums and models for upcoming deals, incorporating comparative tables, in-depth market analysis, and key financial metrics to the firm’s investment committee. 
+- Automated data compilation processes for prospective limited partners (LPs), improving efficiency and accuracy in delivering key information and streamlining the process of data retrieval for ongoing and future deals.
+- Supported due diligence processes by preparing materials, conducting analysis, and facilitating meetings with LPs and portfolio companies at the board level. 
+
+**Data Analyst Intern @ Index (_June 2024 - Aug 2024_)**
+
+Developed machine learning models, optimized data preparation processes, and conducted market analysis to drive data-driven insights and support product development.
+- Programmed an object detection model using YOLOv8 to identify damaged residential and commercial buildings in San Juan, Puerto Rico, post-Hurricane Maria, achieving a mean average precision (mAP) of 80%.
+- Developed a predictive classification model utilizing Random Forest and Gradient Boosting algorithms to identify potential instances of low birthweight from parental data with 80% precision. 
+- Utilized SQL and data imputation techniques to facilitate data acquisition and preparation for product testing.
+- Applied Google Analytics to identify market entry points and areas with less competition for our product.
+
 **Project Manager @ EDESSA (_June 2023 - Sept 2023_)**
 
 Coordinated the seamless integration of the MARS product line (Petcare, Snacking, and Food and Nutrition) into the existing distribution system.
@@ -49,9 +47,7 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 
 # Portfolio
 ## Python
-- [Adventure Time: Slumber Party](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Adventure%20Time%3A%20Slumber%20Party.ipynb)
-  
-This is my first python project, I created it during my first month at Hult. If you have the time please give the game a try, I spent a lot of time and effort on the story paths and I think it's quite entertaining and funny.
+
 - [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
 Participated in EY and NASA’s Open Science Data Challenge to develop an object detection model using YOLO v8, aimed to conduct storm damage assessment in San Juan, Puerto Rico following Hurricane Maria. 
@@ -61,6 +57,9 @@ Developed a predictive classification model utilizing Random Forest and Gradient
 - [Regression modeling to Predict Amount of Clicks](https://github.com/juanmendezportet/data_analyst.github.io/blob/main/portfolio/python/regression_model_clicks_predictions.ipynb)
 
 Utilized data imputation and feature engineering techniques, along with a Decision Tree Regressor, to accurately forecast click rates for an Air France marketing campaign. 
+- [Adventure Time: Slumber Party](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Adventure%20Time%3A%20Slumber%20Party.ipynb)
+  
+This is my first python project, I created it during my first month at Hult. If you have the time please give the game a try, I spent a lot of time and effort on the story paths and I think it's quite entertaining and funny.
 
 ## R
 - [Airbnb Descriptions Data Mining](https://github.com/juanmendezportet/juanmendezportet.github.io/blob/main/portfolio/R/A1_Mendez_Juan.R)
