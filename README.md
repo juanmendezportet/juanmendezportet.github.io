@@ -48,6 +48,10 @@ Responsible for maintaining optimal inventory levels to meet monthly and semi-an
 # Portfolio
 ## Python
 
+- [Golden Cross Trading Bot]
+(https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/Golden_Cross_Bot.ipynb)
+
+A trading bot that implements the golden cross strategy to buy and sell assets based on current Binance data, utilizing a 50-day short-term moving average and a 200-day long-term moving average.
 - [Building Damage Detection in San Juan, Puerto Rico](https://github.com/Juanmanumango/juanmanumango.github.io/blob/main/portfolio/python/building_damage_detection_in_san_juan_puerto_rico.ipynb)
 
 Participated in EY and NASA’s Open Science Data Challenge to develop an object detection model using YOLO v8, aimed to conduct storm damage assessment in San Juan, Puerto Rico following Hurricane Maria. 
